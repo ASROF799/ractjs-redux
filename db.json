@@ -1,0 +1,88 @@
+{
+    "users" : [
+        {
+          "id": 1,
+          "nama": "Uji coba",
+          "alamat": " Pemalang ",
+          "umur": 26,
+          "noHp": " 082226572456"
+        },
+        {
+          "id": 2,
+          "nama": "Dedi Mulyadi",
+          "alamat": " Pemalang ",
+          "umur": 29,
+          "noHp": " 082226572457"
+        },
+        {
+          "id": 3,
+          "nama": "Ani",
+          "alamat": " Pemalang ",
+          "umur": 25,
+          "noHp": " 082226572458"
+        },
+        {
+          "id": 4,
+          "nama": "Riko",
+          "alamat": " Pemalang ",
+          "umur": 26,
+          "noHp": " 082226572459"
+        },
+        {
+          "id": 5,
+          "nama": "Jony",
+          "alamat": " Pemalang ",
+          "umur": 29,
+          "noHp": " 082226572460"
+        },
+        {
+          "id": 6,
+          "nama": "Riko",
+          "alamat": " Pemalang ",
+          "umur": 25,
+          "noHp": " 082226572461"
+        },
+        {
+          "id": 7,
+          "nama": "Eva Ahsanty",
+          "alamat": " Pemalang ",
+          "umur": 26,
+          "noHp": " 082226572456"
+        },
+        {
+          "id": 8,
+          "nama": "Dedi Mulyadi",
+          "alamat": " Pemalang ",
+          "umur": 29,
+          "noHp": " 082226572457"
+        },
+        {
+          "id": 9,
+          "nama": "Ani",
+          "alamat": " Pemalang ",
+          "umur": 25,
+          "noHp": " 082226572458"
+        },
+        {
+          "id": 10,
+          "nama": "Riko",
+          "alamat": " Pemalang ",
+          "umur": 26,
+          "noHp": " 082226572459"
+        },
+        {
+          "id": 11,
+          "nama": "Jony",
+          "alamat": " Pemalang ",
+          "umur": 29,
+          "noHp": " 082226572460"
+        },
+        {
+          "id": 12,
+          "nama": "Riko",
+          "alamat": " Pemalang ",
+          "umur": 25,
+          "noHp": " 082226572461"
+        }
+      ]
+}
